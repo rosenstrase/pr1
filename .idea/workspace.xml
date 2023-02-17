@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3b00619-0d5d-40f7-9adc-1313dfad1a17" name="Changes" comment="20_Schluesselprinzip_Vererbung3_Override_Abstrakte_Klasse">
-      <change afterPath="$PROJECT_DIR$/src/Vererbung/ImmoGmbH/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vererbung/ImmoGmbH/Wohnhaus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vererbung/ImmoGmbH/Wohnung.java" afterDir="false" />
+    <list default="true" id="b3b00619-0d5d-40f7-9adc-1313dfad1a17" name="Changes" comment="Document &quot;Übungen_Vererbung_Pr1_inkl_abstrakteKlassen&quot; Aufgabe 1 gelöst">
+      <change afterPath="$PROJECT_DIR$/src/Vererbung/TabletVerwaltung/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vererbung/TabletVerwaltung/Schueler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vererbung/TabletVerwaltung/Tablet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +65,7 @@
       <workItem from="1676537351405" duration="84000" />
       <workItem from="1676537455952" duration="131000" />
       <workItem from="1676537659064" duration="6363000" />
-      <workItem from="1676616780919" duration="2578000" />
+      <workItem from="1676616780919" duration="4692000" />
     </task>
     <task id="LOCAL-00001" summary="20_Schluesselprinzip_Vererbung3_Override_Abstrakte_Klasse">
       <created>1676541249030</created>
@@ -74,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676541249030</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Document &quot;Übungen_Vererbung_Pr1_inkl_abstrakteKlassen&quot; Aufgabe 1 gelöst">
+      <created>1676619594886</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676619594886</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,7 +89,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="20_Schluesselprinzip_Vererbung3_Override_Abstrakte_Klasse" />
-    <option name="LAST_COMMIT_MESSAGE" value="20_Schluesselprinzip_Vererbung3_Override_Abstrakte_Klasse" />
+    <MESSAGE value="Document &quot;Übungen_Vererbung_Pr1_inkl_abstrakteKlassen&quot; Aufgabe 1 gelöst" />
+    <option name="LAST_COMMIT_MESSAGE" value="Document &quot;Übungen_Vererbung_Pr1_inkl_abstrakteKlassen&quot; Aufgabe 1 gelöst" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
