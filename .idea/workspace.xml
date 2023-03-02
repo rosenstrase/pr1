@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3b00619-0d5d-40f7-9adc-1313dfad1a17" name="Changes" comment="Document &quot;Übungen_Vererbung_Pr1_inkl_abstrakteKlassen&quot; Aufgabe 1 gelöst">
-      <change afterPath="$PROJECT_DIR$/src/Vererbung/TabletVerwaltung/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vererbung/TabletVerwaltung/Schueler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vererbung/TabletVerwaltung/Tablet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vererbung/Kaffeemaschine/AbfallBehaelter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vererbung/Kaffeemaschine/Behaelter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vererbung/Kaffeemaschine/Kaffemaschine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vererbung/Kaffeemaschine/Rezept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vererbung/Kaffeemaschine/ZutatenBehaelter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +50,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;shared-indexes&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -66,6 +68,10 @@
       <workItem from="1676537455952" duration="131000" />
       <workItem from="1676537659064" duration="6363000" />
       <workItem from="1676616780919" duration="4692000" />
+      <workItem from="1677481390728" duration="112000" />
+      <workItem from="1677746807820" duration="1238000" />
+      <workItem from="1677749103690" duration="1107000" />
+      <workItem from="1677750246592" duration="5724000" />
     </task>
     <task id="LOCAL-00001" summary="20_Schluesselprinzip_Vererbung3_Override_Abstrakte_Klasse">
       <created>1676541249030</created>
