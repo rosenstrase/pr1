@@ -4,12 +4,12 @@ package Vererbung.Kaffeemaschine;
 soll den Namen des Getränks und die dafür notwendige Menge von Wasser, Kaffee, Kakao, Zucker und Milch in Liter beinhalten
 */
 public class Rezept {
-    String name;
-    double wasserM;
-    double kaffeeM;
-    double kakaoM;
-    double zuckerM;
-    double milchM;
+    protected String name;
+    protected double wasserM;
+    protected double kaffeeM;
+    protected double kakaoM;
+    protected double zuckerM;
+    protected double milchM;
     public Rezept( String name, double wasserM, double kaffeeM, double kakaoM, double zuckerM, double milchM){
         this.name = name;
         this.wasserM = wasserM;
@@ -22,12 +22,14 @@ public class Rezept {
         System.out.println(this.name + " " + this.wasserM + " " + this.kaffeeM + " " + this.kakaoM + " " + this.zuckerM + " " + this.milchM);
     }
 
-    public void machen() {
-        Kaffemaschine.wasser.entnehmen(wasserM);
-        Kaffemaschine.kaffee.entnehmen(kaffeeM);
-        Kaffemaschine.kakao.entnehmen(kakaoM);
-        Kaffemaschine.zucker.entnehmen(zuckerM);
-        Kaffemaschine.milch.entnehmen(milchM);
-        Kaffemaschine.abfall.fuell(kaffeeM);
+    public static void getraenkerstellen(Rezept e) {
+        Kaffemaschine.wasser.entnehmen(e.wasserM);
+        Kaffemaschine.kaffee.entnehmen(e.kaffeeM);
+        Kaffemaschine.kakao.entnehmen(e.kakaoM);
+        Kaffemaschine.zucker.entnehmen(e.zuckerM);
+        Kaffemaschine.milch.entnehmen(e.milchM);
+    }
+
+    public void getraenkerstellen() {
     }
 }

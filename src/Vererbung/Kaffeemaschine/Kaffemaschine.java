@@ -26,7 +26,7 @@ public class Kaffemaschine {
         for (;;){
             RezeptL.forEach((n) -> n.getInfo());
             System.out.println("Was für einen Kaffee wollen Sie?");
-            RezeptL.get(sc.nextInt()).machen();
+            RezeptL.get(sc.nextInt()).getraenkerstellen();
         }
     }
 }
