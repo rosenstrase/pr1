@@ -4,17 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3b00619-0d5d-40f7-9adc-1313dfad1a17" name="Changes" comment="Document &quot;Übungen_Vererbung_Pr1_inkl_abstrakteKlassen&quot; Aufgabe 3 gelöst">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UE34_Interfaces_Aufgaben/Aufgabe1/DasFuenfte.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UE34_Interfaces_Aufgaben/Aufgabe1/NachrichtenEmpfaenger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UE34_Interfaces_Aufgaben/Aufgabe1/NachrichtenQuelle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UE34_Interfaces_Aufgaben/Aufgabe1/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UE34_Interfaces_Aufgaben/Aufgabe1/Starter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UE34_Interfaces_Aufgaben/Aufgabe1/Vermittler.java" afterDir="false" />
+    <list default="true" id="b3b00619-0d5d-40f7-9adc-1313dfad1a17" name="Changes" comment="Document &quot;10_AB_Java_Interfaces&quot; Aufgaben gelöst">
+      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/MiniRechner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Vererbung/Kaffeemaschine/Kaffemaschine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vererbung/Kaffeemaschine/Kaffemaschine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Vererbung/Kaffeemaschine/Rezept.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vererbung/Kaffeemaschine/Rezept.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +27,7 @@
         <option value="Neil Porter &lt;neil.porter@gds2ts.onmicrosoft.com&gt;" />
       </list>
     </option>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
@@ -70,7 +63,20 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.MiniRechner">
+    <configuration name="MiniRechner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExceptionHandling.MiniRechner" />
+      <module name="programmieren1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExceptionHandling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Starter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="UE34_Interfaces_Aufgaben.Aufgabe1.Starter" />
       <module name="programmieren1" />
@@ -86,6 +92,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MiniRechner" />
         <item itemvalue="Application.Starter" />
       </list>
     </recent_temporary>
@@ -114,7 +121,9 @@
       <workItem from="1678354234966" duration="252000" />
       <workItem from="1678354518132" duration="22000" />
       <workItem from="1678354559784" duration="2823000" />
-      <workItem from="1678432176581" duration="1814000" />
+      <workItem from="1678432176581" duration="2701000" />
+      <workItem from="1678799324579" duration="530000" />
+      <workItem from="1678799984242" duration="2354000" />
     </task>
     <task id="LOCAL-00001" summary="20_Schluesselprinzip_Vererbung3_Override_Abstrakte_Klasse">
       <created>1676541249030</created>
@@ -137,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677756860507</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Document &quot;10_AB_Java_Interfaces&quot; Aufgaben gelöst">
+      <created>1678434275509</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678434275509</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,7 +174,8 @@
     <MESSAGE value="20_Schluesselprinzip_Vererbung3_Override_Abstrakte_Klasse" />
     <MESSAGE value="Document &quot;Übungen_Vererbung_Pr1_inkl_abstrakteKlassen&quot; Aufgabe 1 gelöst" />
     <MESSAGE value="Document &quot;Übungen_Vererbung_Pr1_inkl_abstrakteKlassen&quot; Aufgabe 3 gelöst" />
-    <option name="LAST_COMMIT_MESSAGE" value="Document &quot;Übungen_Vererbung_Pr1_inkl_abstrakteKlassen&quot; Aufgabe 3 gelöst" />
+    <MESSAGE value="Document &quot;10_AB_Java_Interfaces&quot; Aufgaben gelöst" />
+    <option name="LAST_COMMIT_MESSAGE" value="Document &quot;10_AB_Java_Interfaces&quot; Aufgaben gelöst" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
