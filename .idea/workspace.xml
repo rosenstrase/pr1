@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3b00619-0d5d-40f7-9adc-1313dfad1a17" name="Changes" comment="Document &quot;20_Ausnahmebehandlung_Einfuehrung&quot; bearbeitet">
-      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/BMIrechner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/Mitternachtsformelrechner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/Quersummenrechner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/Wurzelrechner.java" afterDir="false" />
+    <list default="true" id="b3b00619-0d5d-40f7-9adc-1313dfad1a17" name="Changes" comment="Document &quot;30_AB_Ausnahmebehandlung&quot; fertig bearbeitet">
+      <change afterPath="$PROJECT_DIR$/src/Generics/AB_20_JavaGenerics_Uebungsaufgabe/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/AB_20_JavaGenerics_Uebungsaufgabe/Figure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/AB_20_JavaGenerics_Uebungsaufgabe/FigureContainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/AB_20_JavaGenerics_Uebungsaufgabe/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/AB_20_JavaGenerics_Uebungsaufgabe/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/AB_20_JavaGenerics_Uebungsaufgabe/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/MAddierer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -128,7 +131,7 @@
       <workItem from="1678799324579" duration="530000" />
       <workItem from="1678799984242" duration="2443000" />
       <workItem from="1679404640738" duration="2023000" />
-      <workItem from="1679554458438" duration="4601000" />
+      <workItem from="1679554458438" duration="9154000" />
     </task>
     <task id="LOCAL-00001" summary="20_Schluesselprinzip_Vererbung3_Override_Abstrakte_Klasse">
       <created>1676541249030</created>
@@ -165,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678802446989</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Document &quot;30_AB_Ausnahmebehandlung&quot; fertig bearbeitet">
+      <created>1679559160942</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1679559160942</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,7 +198,8 @@
     <MESSAGE value="Document &quot;Übungen_Vererbung_Pr1_inkl_abstrakteKlassen&quot; Aufgabe 3 gelöst" />
     <MESSAGE value="Document &quot;10_AB_Java_Interfaces&quot; Aufgaben gelöst" />
     <MESSAGE value="Document &quot;20_Ausnahmebehandlung_Einfuehrung&quot; bearbeitet" />
-    <option name="LAST_COMMIT_MESSAGE" value="Document &quot;20_Ausnahmebehandlung_Einfuehrung&quot; bearbeitet" />
+    <MESSAGE value="Document &quot;30_AB_Ausnahmebehandlung&quot; fertig bearbeitet" />
+    <option name="LAST_COMMIT_MESSAGE" value="Document &quot;30_AB_Ausnahmebehandlung&quot; fertig bearbeitet" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
