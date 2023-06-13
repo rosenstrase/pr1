@@ -4,14 +4,53 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3b00619-0d5d-40f7-9adc-1313dfad1a17" name="Changes" comment="Document &quot;30_AB_Ausnahmebehandlung&quot; fertig bearbeitet">
-      <change afterPath="$PROJECT_DIR$/src/Generics/AB_20_JavaGenerics_Uebungsaufgabe/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/AB_20_JavaGenerics_Uebungsaufgabe/Figure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/AB_20_JavaGenerics_Uebungsaufgabe/FigureContainer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/AB_20_JavaGenerics_Uebungsaufgabe/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/AB_20_JavaGenerics_Uebungsaufgabe/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/AB_20_JavaGenerics_Uebungsaufgabe/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/MAddierer.java" afterDir="false" />
+    <list default="true" id="b3b00619-0d5d-40f7-9adc-1313dfad1a17" name="Changes" comment="Document &quot;20_JavaGenerics_Übungsaufgabe&quot; fertig">
+      <change afterPath="$PROJECT_DIR$/src/Aggregation/AB_30_Aufgabe2/Artikel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aggregation/AB_30_Aufgabe2/Verkaeufer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUI_Jframe_Vererbung/Button/Buttonbeispiel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUI_Jframe_Vererbung/Button/MehrereButtons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUI_Jframe_Vererbung/Button/Testerklasse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUI_Jframe_Vererbung/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUI_Jframe_Vererbung/WelliRechner/Waehrungsrechner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUI_Jframe_Vererbung/WelliRechner/WaehrungsrechnerChatGPT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUI_Jframe_Vererbung/Zahlensafe/Safetest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUI_Jframe_Vererbung/Zahlensafe/Zahlenschloss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Klausur4_Vorbereitung/AbstractClasses_SuperClasses/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Klausur4_Vorbereitung/AbstractClasses_SuperClasses/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Klausur4_Vorbereitung/AbstractClasses_SuperClasses/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Klausur4_Vorbereitung/AbstractClasses_SuperClasses/Example/LineItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Klausur4_Vorbereitung/AbstractClasses_SuperClasses/Example/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Klausur4_Vorbereitung/AbstractClasses_SuperClasses/Example/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Klausur4_Vorbereitung/AbstractClasses_SuperClasses/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Klausur4_Vorbereitung/CollectionClasses/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Klausur4_Vorbereitung/CollectionClasses/CustomerTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Klausur4_Vorbereitung/CollectionClasses/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Klausur4_Vorbereitung/Exceptions/BMIRechner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Klausur4_Vorbereitung/Exceptions/Wurzelrechner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Klausur4_Vorbereitung/Generics/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Klausur4_Vorbereitung/Generics/Figure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Klausur4_Vorbereitung/Generics/FigureContainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Klausur4_Vorbereitung/Generics/FigureContainerTestDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Klausur4_Vorbereitung/Generics/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Klausur4_Vorbereitung/Generics/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Klausur4_Vorbereitung/Interfaces/NachrichtenEmpfaenger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Klausur4_Vorbereitung/Interfaces/NachrichtenQuelle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Klausur4_Vorbereitung/Interfaces/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Klausur4_Vorbereitung/Interfaces/SWR3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Klausur4_Vorbereitung/Interfaces/Starter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Klausur4_Vorbereitung/Interfaces/Vermittler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/X390_WindBuilder_Aufgaben/A01_Geometrie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/X390_WindBuilder_Aufgaben/GeometryCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/X390_WindBuilder_Aufgaben/WindBuilder.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/X410_Anwendungen_Lesen_von_Dateien/Dateien_lesen/A01_Begruessung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/X410_Anwendungen_Lesen_von_Dateien/Dateien_lesen/A02_CSV_Log_Datei.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/X410_Anwendungen_Lesen_von_Dateien/Dateien_lesen/TxtDateiStrWrtr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/X410_Anwendungen_Lesen_von_Dateien/Dateien_lesen/Write_Text.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/X410_Anwendungen_Lesen_von_Dateien/Dateien_lesen/namen.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/X410_Anwendungen_Lesen_von_Dateien/Dateien_lesen/pakDateien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/X410_Anwendungen_Lesen_von_Dateien/Dateien_schreiben/a01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/X410_Anwendungen_Lesen_von_Dateien/Dateien_schreiben/a02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/X410_Anwendungen_Lesen_von_Dateien/Dateien_schreiben/a02chatgpt.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,57 +90,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Neil/IdeaProjects/pr1&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW": "false",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Neil/IdeaProjects/pr1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager">
-    <configuration name="MiniRechner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExceptionHandling.MiniRechner" />
-      <module name="programmieren1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ExceptionHandling.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Starter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UE34_Interfaces_Aufgaben.Aufgabe1.Starter" />
-      <module name="programmieren1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="UE34_Interfaces_Aufgaben.Aufgabe1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.MiniRechner" />
-        <item itemvalue="Application.Starter" />
-      </list>
-    </recent_temporary>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="X410_Anwendungen_Lesen_von_Dateien" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Neil\IdeaProjects\pr1\src\X410_Anwendungen_Lesen_von_Dateien\Dateien_lesen" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -131,7 +148,27 @@
       <workItem from="1678799324579" duration="530000" />
       <workItem from="1678799984242" duration="2443000" />
       <workItem from="1679404640738" duration="2023000" />
-      <workItem from="1679554458438" duration="9154000" />
+      <workItem from="1679554458438" duration="9290000" />
+      <workItem from="1680244266290" duration="1530000" />
+      <workItem from="1682424495336" duration="636000" />
+      <workItem from="1682425288021" duration="1801000" />
+      <workItem from="1682527964936" duration="13368000" />
+      <workItem from="1682546570324" duration="291000" />
+      <workItem from="1682574964365" duration="4307000" />
+      <workItem from="1682662551520" duration="5103000" />
+      <workItem from="1683029106575" duration="594000" />
+      <workItem from="1683186872290" duration="9015000" />
+      <workItem from="1683266940253" duration="3090000" />
+      <workItem from="1683633124605" duration="3768000" />
+      <workItem from="1683791225253" duration="3394000" />
+      <workItem from="1683799966444" duration="1956000" />
+      <workItem from="1683871096716" duration="1293000" />
+      <workItem from="1684844551174" duration="1196000" />
+      <workItem from="1685001779534" duration="4436000" />
+      <workItem from="1685009803866" duration="507000" />
+      <workItem from="1685093634759" duration="1046000" />
+      <workItem from="1685095558364" duration="208000" />
+      <workItem from="1686657891219" duration="3153000" />
     </task>
     <task id="LOCAL-00001" summary="20_Schluesselprinzip_Vererbung3_Override_Abstrakte_Klasse">
       <created>1676541249030</created>
@@ -175,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679559160942</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Document &quot;20_JavaGenerics_Übungsaufgabe&quot; fertig">
+      <created>1679571915652</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1679571915652</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,7 +243,8 @@
     <MESSAGE value="Document &quot;10_AB_Java_Interfaces&quot; Aufgaben gelöst" />
     <MESSAGE value="Document &quot;20_Ausnahmebehandlung_Einfuehrung&quot; bearbeitet" />
     <MESSAGE value="Document &quot;30_AB_Ausnahmebehandlung&quot; fertig bearbeitet" />
-    <option name="LAST_COMMIT_MESSAGE" value="Document &quot;30_AB_Ausnahmebehandlung&quot; fertig bearbeitet" />
+    <MESSAGE value="Document &quot;20_JavaGenerics_Übungsaufgabe&quot; fertig" />
+    <option name="LAST_COMMIT_MESSAGE" value="Document &quot;20_JavaGenerics_Übungsaufgabe&quot; fertig" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
